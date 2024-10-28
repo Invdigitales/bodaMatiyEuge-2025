@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3292.903740154751!2d-58.74754612489733!3d-34.378368445630976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc9ff38b1b03c1%3A0x613cf6b56958b6bc!2sEspacio%20Mendoza!5e0!3m2!1ses-419!2sar!4v1703263491862!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '' +
         'Podes ampliar el mapa',
         
         
